@@ -1,6 +1,8 @@
 # MazeStory
 TeamWork Assignment /
 
+https://youtu.be/bF-g5u6kv2o
+
 스토리를 이어나가는 간단한 모험 게임입니다.
 
 두 나라의 왕자와 공주가 신비한 보물을 찾기 위해 전설의 미로로 탐험을 떠납니다.
